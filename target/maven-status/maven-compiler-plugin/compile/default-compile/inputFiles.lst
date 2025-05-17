@@ -1,0 +1,11 @@
+C:\Users\max_b\Downloads\stock-app-repo-dao-v2\stock-app-repo-dao-v2\src\main\java\com\example\stockapp\presentation\MainCLI.java
+C:\Users\max_b\Downloads\stock-app-repo-dao-v2\stock-app-repo-dao-v2\src\main\java\com\example\stockapp\repository\StockRepositoryImpl.java
+C:\Users\max_b\Downloads\stock-app-repo-dao-v2\stock-app-repo-dao-v2\src\main\java\com\example\stockapp\repository\StockRepository.java
+C:\Users\max_b\Downloads\stock-app-repo-dao-v2\stock-app-repo-dao-v2\src\main\java\com\example\stockapp\dataaccess\dao\JdbcPurchaseDAO.java
+C:\Users\max_b\Downloads\stock-app-repo-dao-v2\stock-app-repo-dao-v2\src\main\java\com\example\stockapp\dataaccess\dao\JdbcUserDAO.java
+C:\Users\max_b\Downloads\stock-app-repo-dao-v2\stock-app-repo-dao-v2\src\main\java\com\example\stockapp\dataaccess\dao\PurchaseDAO.java
+C:\Users\max_b\Downloads\stock-app-repo-dao-v2\stock-app-repo-dao-v2\src\main\java\com\example\stockapp\service\StockService.java
+C:\Users\max_b\Downloads\stock-app-repo-dao-v2\stock-app-repo-dao-v2\src\main\java\com\example\stockapp\dataaccess\dao\UserDAO.java
+C:\Users\max_b\Downloads\stock-app-repo-dao-v2\stock-app-repo-dao-v2\src\main\java\com\example\stockapp\domain\User.java
+C:\Users\max_b\Downloads\stock-app-repo-dao-v2\stock-app-repo-dao-v2\src\main\java\com\example\stockapp\util\Database.java
+C:\Users\max_b\Downloads\stock-app-repo-dao-v2\stock-app-repo-dao-v2\src\main\java\com\example\stockapp\domain\StockPurchase.java
