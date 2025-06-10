@@ -2,8 +2,7 @@ package com.example.stockapp.service;
 
 
 import com.example.stockapp.domain.ControllerFacade;
-import com.example.stockapp.domain.StockRepository;
-import com.example.stockapp.domain.StockRepositoryImpl;
+
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.slf4j.Logger;
